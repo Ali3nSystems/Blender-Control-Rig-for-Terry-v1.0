@@ -1,0 +1,2 @@
+Everything you need to know about this topic is documented on this page:
+https://wiki.facepunch.com/sbox/ModelDoc_FAQ

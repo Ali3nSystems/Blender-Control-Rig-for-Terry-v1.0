@@ -1,0 +1,3 @@
+At this very moment I won't be explaining how to re-create existing poses from the citizen animation folder, main reason is because this package is still in its early stages and subject to change. 
+The tutorial on how to re-create poses is very lenghty and I won't be wasting my time if I find another better way. For now you only have a few poses.
+The reason we are re-creating is because we can't import them as they are.

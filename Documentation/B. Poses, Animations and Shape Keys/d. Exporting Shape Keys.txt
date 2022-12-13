@@ -1,0 +1,2 @@
+Everything you need to know about this topic is documented on this page which is courtesy of Grodbert:
+https://wiki.facepunch.com/sbox/Importing_Morphs_and_Shape_Key_Animations
